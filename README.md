@@ -1,7 +1,7 @@
 ## Form HTML / CSS
 
 
-<img src="../img/challenge-two.jpg" alt="screen-of-challenge">
+<img src="/challenge-two.jpg" alt="screen-of-challenge">
 
 
 > Visual result of the Form Project.
@@ -24,7 +24,7 @@ We thank the following people who contributed to the realization of this project
   <tr>
     <td align="center">
       <a href="#">
-        <img src="../img/sergio-cartoon.png" width="150px;" alt="cartoon-sergio"/><br>
+        <img src="/sergio-cartoon.png" width="150px;" alt="cartoon-sergio"/><br>
         <sub>
           <b>Sergio L Cardoso</b>
         </sub>
