@@ -4,7 +4,7 @@
 <img src="../img/challenge-two.jpg" alt="screen-of-challenge">
 
 
-> Visual result of the Form Project.
+> Visual result of the Form Project
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/SergioLuisCardoso/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/SergioLuisCardoso/README-template?style=for-the-badge)
